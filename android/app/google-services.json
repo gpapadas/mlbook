@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594478995086",
+    "firebase_url": "https://mlbook-28188.firebaseio.com",
+    "project_id": "mlbook-28188",
+    "storage_bucket": "mlbook-28188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594478995086:android:b948d46f88fc1448",
+        "android_client_info": {
+          "package_name": "app.mlbook.mlbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594478995086-8putnbmfrpas1na5hd3jmuq8vkuie33o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr3cYswtlm8KvaVk3VpRXdAarJNME5oN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594478995086-8putnbmfrpas1na5hd3jmuq8vkuie33o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
